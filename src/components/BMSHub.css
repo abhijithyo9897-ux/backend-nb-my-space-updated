@@ -1,0 +1,230 @@
+.bms-container {
+  display: flex;
+  height: 100%;
+  gap: 20px;
+}
+
+/* Sidebar */
+.bms-sidebar {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 15px;
+  overflow-y: auto;
+}
+
+.bms-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border-glass);
+  margin-bottom: 15px;
+}
+
+.bms-brand h3 {
+  font-size: 1.2rem;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.bms-nav-groups {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.group-btn {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: transparent;
+  border: none;
+  color: var(--text-main);
+  padding: 12px;
+  text-align: left;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.group-btn:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.group-btn.active {
+  background: rgba(0, 240, 255, 0.1);
+  color: var(--primary);
+}
+
+.chevron {
+  transition: transform 0.3s ease;
+}
+
+.chevron.open {
+  transform: rotate(90deg);
+}
+
+.nav-subpages {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px 0 10px 15px;
+  border-left: 2px solid rgba(255, 255, 255, 0.1);
+  margin-left: 12px;
+  animation: slideDown 0.3s ease-out forwards;
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.page-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: transparent;
+  border: none;
+  color: var(--text-muted);
+  padding: 8px 12px;
+  text-align: left;
+  font-size: 0.85rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.page-btn:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.page-btn.active {
+  color: var(--secondary);
+  background: rgba(176, 38, 255, 0.1);
+}
+
+/* Main Area */
+.bms-main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.bms-toolbar {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--border-glass);
+}
+
+.toolbar-left h2 {
+  font-size: 1.4rem;
+  margin-bottom: 5px;
+}
+
+.col-count {
+  font-size: 0.8rem;
+  color: var(--success);
+  background: rgba(16, 185, 129, 0.15);
+  padding: 3px 8px;
+  border-radius: 12px;
+  border: 1px solid rgba(16, 185, 129, 0.3);
+}
+
+.toolbar-right {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid var(--border-glass);
+  padding: 8px 15px;
+  border-radius: 8px;
+}
+
+.search-box input {
+  background: transparent;
+  border: none;
+  color: #fff;
+  outline: none;
+  font-family: inherit;
+  font-size: 0.9rem;
+  width: 200px;
+}
+
+.search-box input::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+
+.export-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 16px;
+  font-size: 0.9rem;
+}
+
+/* Table */
+.bms-table-wrapper {
+  flex: 1;
+  overflow: auto;
+  padding: 20px;
+}
+
+.bms-table {
+  width: max-content;
+  min-width: 100%;
+  border-collapse: collapse;
+}
+
+.bms-table th {
+  background: rgba(0, 0, 0, 0.4);
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 15px 20px;
+  text-align: left;
+  border: 1px solid var(--border-glass);
+  white-space: nowrap;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.bms-table td {
+  padding: 15px 20px;
+  border: 1px solid var(--border-glass);
+  background: rgba(0, 0, 0, 0.1);
+  transition: background 0.2s ease;
+}
+
+.bms-table tr:hover td {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.skeleton-cell {
+  height: 12px;
+  width: 100px;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+  animation: pulse 2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}

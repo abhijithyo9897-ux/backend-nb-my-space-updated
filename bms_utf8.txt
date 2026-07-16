@@ -1,0 +1,671 @@
+
+
+=== SHEET: Sheet1 ===
+
+Group-1,,Group-3,,Group-4,,Group-6,,Group-7,,Group-8
+New Employee Registration,,Purchase Page,,IT & Systems Log,,Inventory Page,,SOP,, Assets & Equipment
+Attendance Marking,,Sales & Revenue,,Visitor/Guest Log,,Dispatch Page,,R&D Activities,,Tax Register & Compliance Calendar
+Deduction Page,,Expense,,Group-5,,Production/Prep,,Training & Skills Matrix,,Loan & Finance Management
+Salary Page,,Profit & Loss (P&L),,Maintenance Records,,Quality Control,,,, Insurance Register 
+,,Invoices & Billing,,Sustainability/ESG Reporting,,,,,,Legal/License Register
+Group-2,,Cash Flow Statement,,,,,,,,
+Attendance status,,Balance sheet,,,,,,,,
+Customer Database,,Group-9,,,,,,,,
+Employee HR Database,,Supplier/Vendor,,,,,,,,
+Work Orders/Jobs,,Quotations,,,,,,,,
+,,Payment Tracking,,,,,,,,
+,,Projects & Contracts,,,,,,,,
+,,Leads & Sales Pipeline,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Phase 1,,Phase 2,,Phase 3,,Phase 4,,,,
+Group-1,,Group-4,,Group-6,,Group-5,,,,
+New Employee Registration,,IT & Systems Log,,Inventory Page,,Maintenance Records,,,,
+Attendance Marking,,Visitor/Guest Log,,Dispatch Page,,Sustainability/ESG Reporting,,,,
+Deduction Page,,Group-7,,Production/Prep,,Group-8,,,,
+Salary Page,,SOP,,Quality Control,, Assets & Equipment,,,,
+,,R&D Activities,,Group-3,,Tax Register & Compliance Calendar,,,,
+Group-2,,Training & Skills Matrix,,Purchase Page,,Loan & Finance Management,,,,
+Attendance status,,,,Sales & Revenue,, Insurance Register ,,,,
+Customer Database,,,,Expense,,Legal/License Register,,,,
+Employee HR Database,,,,Profit & Loss (P&L),,,,,,
+Work Orders/Jobs,,,,Invoices & Billing,,,,,,
+,,,,Cash Flow Statement,,,,,,
+MOST USED,,,,Balance sheet,,,,,,
+,,,,Group-9,,,,,,
+PRINT OPTIONS,,,,Supplier/Vendor,,,,,,
+,,,,Quotations,,,,,,
+Time Line/Status page,,,,Payment Tracking,,,,,,
+,,,,Projects & Contracts,,,,,,
+Page,,,,Leads & Sales Pipeline,,,,,,
+Landing page,,,,,,,,,,
+Login Page,,,,,,,,,,
+Main Menu,,,,,,,,,,
+Dashboard,,,,,,,,,,
+Id Dashboard,,,,,,,,,,
+,,,,,,,,,,
+notification area,,,,,,,,,,
+Wall stock,,,,,,,,,,
+Excel  Import,,,,,,,,,,
+,,,,,,,,,,
+Menu/Product Catalog,,,,,,,,,,
+
+=== SHEET: 3. Attendance Sheet ===
+
+Employee ID,Employee Name,Designation,Department,Month,Date,Day,Check-In Time,Check-Out Time,Total Hours,Status,Overtime Hours,Late Arrival,Early Departure,Break Time (mins),Shift,Location,Work Type,Leave Type,Leave Balance,Remarks
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,3. Attendance Sheet,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,3. Attendance Sheet,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,3. Attendance Sheet,,
+
+=== SHEET: SS ===
+
+Employee ID,Employee Name,Designation,Department,Month,Year,Basic Salary (₹),HRA (₹),Conveyance Allowance (₹),Medical Allowance (₹),Other Allowances (₹),Gross Salary (₹),Total Working Days,Present Days,Absent Days,Paid Leaves,Unpaid Leaves,Overtime Hours,Overtime Pay (₹),Bonus/Incentive (₹),PF Deduction (₹),ESI Deduction (₹),TDS (₹),Other Deductions (₹),Total Deductions (₹),Net Salary (₹),Payment Date,Payment Mode,Bank Account,Payment Status,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,4. Salary Sheet,,4. Salary Sheet,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: EHRD ===
+
+Employee ID,Full Name,Gender,Date of Birth,Age,Contact Number,Email,Current Address,Permanent Address,Emergency Contact,Date of Joining,Department,Designation,Employment Type,Probation Period,Confirmation Date,Reporting Manager,Qualification,Experience (Years),Previous Company,Aadhar Number,PAN Number,Bank Account No,IFSC Code,PF Number,ESI Number,Blood Group,Marital Status,Photo,Resume,Status,Exit Date,Exit Reason,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,19. Employee HR Database,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: CD ===
+
+Customer ID,Customer Name,Phone Number,Alternate Phone,Email Address,Delivery Address,Landmark,Pincode,City,State,First Order Date,Last Order Date,Total Orders,Total Amount Spent (₹),Average Order Value (₹),Favorite Items,Preferred Platform,Customer Type,Birthday,Anniversary,Special Preferences,Feedback/Rating,Status,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,8. Customer Database,,8. Customer Database,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: 1. Purchase Sheet ===
+
+Purchase ID,Date,Supplier/Vendor Name,Supplier Contact,Item/Ingredient Name,Category,Quantity,Unit,Rate per Unit (₹),Total Amount (₹),GST %,GST Amount (₹),Final Amount (₹),Payment Mode,Payment Status,Invoice Number,Delivery Date,Received By,Quality Check,Remarks
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,1. Purchase Sheet,,,,,,,,,,,,,
+
+=== SHEET: 2. Dispatch Sheet ===
+
+Dispatch ID,Order ID,Order Date,Order Time,Customer Name,Customer Phone,Delivery Address,Pincode,Platform,Item Name,Quantity,Price per Item (₹),Total Order Value (₹),Packaging Cost (₹),Delivery Charges (₹),Platform Commission (₹),Net Amount (₹),Order Status,Dispatch Time,Delivery Partner,Tracking ID,Estimated Delivery Time,Actual Delivery Time,Delivery Status,Customer Feedback,Rating,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,2. Dispatch Sheet,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: IM ===
+
+Item ID,Item/Ingredient Name,Category,Subcategory,Unit,Opening Stock,Stock In (Purchased),Stock Out (Used),Current Stock,Reorder Level,Maximum Stock Level,Unit Cost (₹),Total Value (₹),Supplier Name,Last Purchase Date,Last Purchase Quantity,Expiry Date,Batch Number,Storage Location,Status,Remarks
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,5. Inventory Sheet,,5. Inventory Management,,,,,,,,,,,,,,,,
+
+=== SHEET: SR ===
+
+Sale ID,Date,Day,Month,Year,Order ID,Platform,Customer Name,Item Name,Category,Quantity,Price per Unit (₹),Gross Sale (₹),Discounts (₹),Taxes/GST (₹),Packaging Cost (₹),Delivery Charges (₹),Platform Commission (₹),Net Revenue (₹),Payment Method,Payment Status,Profit Margin (₹),Profit %,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,6. Sales/Revenue Sheet,,6. Sales & Revenue,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: 7. Expense Tracking ===
+
+Expense ID,Date,Month,Year,Expense Category,Expense Type,Description,Vendor/Supplier Name,Amount (₹),Payment Method,Payment Status,Invoice/Bill Number,GST Amount (₹),Total Amount (₹),Approved By,Department,Recurring,Frequency,Priority,Remarks
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,7. Expense Sheet,,,,,,,,,,,,,,,,,
+
+=== SHEET: SV ===
+
+Vendor ID,Vendor/Supplier Name,Contact Person,Phone Number,Alternate Phone,Email Address,Address,City,State,Pincode,GST Number,PAN Number,Product/Service Category,Items Supplied,Payment Terms,Credit Period (Days),Bank Name,Account Number,IFSC Code,First Transaction Date,Last Transaction Date,Total Purchase Amount (₹),Outstanding Amount (₹),Rating,Status,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,9. Supplier/Vendor Sheet,,9. Supplier/Vendor,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: Menu ===
+
+Item ID,Item Name,Category,Subcategory,Description,Ingredients,Serving Size,Preparation Time (mins),Price (₹),Cost of Ingredients (₹),Profit per Item (₹),Profit %,Available on Platforms,Popularity Score,Total Orders (Monthly),Customer Rating,Cuisine Type,Spice Level,Veg/Non-Veg,Contains Allergens,Nutritional Info (Calories),Image URL,Status,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,10. Menu/Product Catalog,,10. Menu/Product Catalog,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: 11. ProductionPrep ===
+
+Production ID,Date,Shift,Item Name,Order IDs,Quantity to Prepare,Batch Number,Start Time,End Time,Total Time Taken (mins),Prepared By,Ingredients Used,Wastage/Scrap (₹),Production Cost (₹),Quality Check Status,Quality Checked By,Shelf Life,Expiry Date/Time,Storage Location,Packaged Quantity,Rejected Quantity,Reason for Rejection,Remarks
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,11. Production/Prep Sheet,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: P & L ===
+
+Column #,Column Name,Description,,,
+A,Month,"Month name (January, February, etc.)",,,
+B,Year,"Fiscal year (2025, 2026, etc.)",,,
+C,Total Sales Revenue (₹),Gross sales before any deductions,,,
+D,Total Orders,Number of orders/transactions,,,
+E,Average Order Value (₹),Revenue per order,,,
+F,Gross Revenue (₹),Total revenue earned,,,
+G,Discounts Given (₹),Total discounts/offers provided,,,
+H,Returns/Refunds (₹),Money refunded to customers,,,
+I,Net Revenue (₹),Gross Revenue - Discounts - Returns,,,
+J,Cost of Goods Sold (COGS) (₹),Total direct costs,,,
+K,Raw Materials Cost (₹),Ingredients/materials cost,,,
+L,Packaging Cost (₹),"Boxes, bags, containers",,,Additional Calculated Metrics:
+M,Production Cost (₹),Labor directly tied to production,,,
+N,Gross Profit (₹),Net Revenue - COGS,,,Net Profit Margin % = (Net Profit / Net Revenue) × 100
+O,Gross Profit Margin %,(Gross Profit / Net Revenue) Ã— 100,,,
+P,Salaries & Wages (₹),Employee salaries,,,Operating Profit Margin % = (EBITDA / Net Revenue) × 100
+Q,Rent (₹),Kitchen/office rent,,,
+R,Utilities (₹),"Electricity, water, gas",,,EBITDA Margin % = (EBITDA / Net Revenue) × 100
+S,Marketing & Advertising (₹),Promotional expenses,,,
+T,Platform Commissions (₹),"Zomato, Swiggy, delivery platform fees",,,Key Formulas:
+U,Delivery Charges (₹),Shipping/delivery costs,,,
+V,Maintenance & Repairs (₹),Equipment servicing,,,Net Revenue (I) = Gross Revenue (F) - Discounts (G) - Returns (H)
+W,Insurance (₹),Business insurance premiums,,,
+X,Other Expenses (₹),Miscellaneous operating costs,,,Gross Profit (N) = Net Revenue (I) - COGS (J)
+Y,Total Operating Expenses (₹),Sum of all operating expenses (P to X),,,
+Z,EBITDA (₹),Gross Profit - Operating Expenses,,,EBITDA (Z) = Gross Profit (N) - Total Operating Expenses (Y)
+AA,Depreciation & Amortization (₹),Asset depreciation,,,
+AB,EBIT (₹),EBITDA - Depreciation,,,EBIT (AB) = EBITDA (Z) - Depreciation (AA)
+AC,Interest Expense (₹),Loan interest payments,,,
+AD,Profit Before Tax (PBT) (₹),EBIT - Interest,,,PBT (AD) = EBIT (AB) - Interest (AC)
+AE,Tax (₹),Income tax liability,,,
+AF,Net Profit (PAT) (₹),Profit After Tax = PBT - Tax,,,Net Profit/PAT (AF) = PBT (AD) - Tax (AE)
+,Net Profit Margin %,,,,
+,Remarks,,,,
+
+=== SHEET: AE ===
+
+Asset ID,Asset Name,Asset Type,Category,Manufacturer,Model Number,Serial Number,Purchase Date,Purchase Price (₹),Supplier/Vendor,Warranty Period,Warranty Expiry,Depreciation Method,Useful Life (Years),Depreciation Rate %,Accumulated Depreciation (₹),Current Book Value (₹),Location/Department,Assigned To,Condition Status,Last Service Date,Next Service Due,Insurance Policy No,Insurance Expiry,Disposal Date,Disposal Value (₹),Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,13. Assets & Equipment,,13. Assets & Equipment,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: QC ===
+
+QC ID,Inspection Date,Inspection Time,Product/Item Name,Batch/Lot Number,Production Date,Quantity Inspected,Inspection Type,Inspector Name,Inspection Criteria,Visual Inspection,Dimensional Check,Weight/Quantity Check,Functional Test,Packaging Check,Labeling Check,Passed Quantity,Failed Quantity,Defect Type,Defect Description,Severity Level,Root Cause,Corrective Action,Preventive Action,Status,Approved By,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,14. Quality Control,,14. Quality Control,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: Quotation ===
+
+Quotation ID,Date,Valid Until,Customer/Lead Name,Company Name,Contact Person,Phone,Email,Product/Service Description,Quantity,Unit Price (₹),Subtotal (₹),Discount %,Discount Amount (₹),Taxable Amount (₹),GST/Tax %,Tax Amount (₹),Shipping Charges (₹),Total Amount (₹),Payment Terms,Delivery Terms,Prepared By,Approved By,Status,Follow-up Date,Converted to Order,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,16. Quotations,,16. Quotations,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: 15. Work OrdersJobs ===
+
+Work Order ID,Date,Customer Name,Project/Job Name,Product/Service,Quantity,Priority,Due Date,Assigned To,Department,Start Date,Completion Date,Status,Materials Required,Labor Hours,Machine Hours,Production Cost (₹),Labor Cost (₹),Material Cost (₹),Total Cost (₹),Billing Amount (₹),Completion %,Quality Status,Customer PO Number,Special Instructions,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,15. Work Orders/Jobs,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: IVB ===
+
+Invoice ID,Invoice Date,Due Date,Customer Name,Company Name,Billing Address,GSTIN/Tax ID,PO Number,Product/Service Description,HSN/SAC Code,Quantity,Unit Price (₹),Amount (₹),Discount (₹),Taxable Amount (₹),CGST %,CGST (₹),SGST %,SGST (₹),IGST %,IGST (₹),Other Charges (₹),Total Invoice Amount (₹),Payment Status,Payment Date,Payment Method,Balance Due (₹),Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,17. Invoices & Billing,,17. Invoices & Billing,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: PT ===
+
+Payment ID,Date,Invoice ID,Customer Name,Invoice Amount (₹),Payment Amount (₹),Payment Mode,Transaction ID/Cheque No,Bank Name,Payment Status,Received Date,Reconciliation Status,Late Payment Days,Late Fee (₹),Advance Payment (₹),Balance Amount (₹),Received By,Deposited To,Receipt Number,Remarks
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,18. Payment Tracking,,,,,,,,,,,,,,,,,
+
+=== SHEET: MR ===
+
+Maintenance ID,Date,Asset/Equipment Name,Asset ID,Maintenance Type,Scheduled/Unscheduled,Problem Description,Service Provider,Technician Name,Start Time,End Time,Downtime (Hours),Parts Replaced,Parts Cost (₹),Labor Cost (₹),Total Cost (₹),Next Service Due,Priority,Status,Approved By,Remarks
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,20. Maintenance Records,,,,,,,,,,,,,,,,,,
+
+=== SHEET: P&C ===
+
+Project ID,Project Name,Client Name,Contract Number,Contract Date,Start Date,Expected Completion,Actual Completion,Project Manager,Project Type,Project Value (₹),Advance Received (₹),Milestones,Milestone Payment (₹),Total Paid (₹),Balance (₹),Completion %,Status,Team Members,Deliverables,Risks,Remarks
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,21. Projects & Contracts,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: LSP ===
+
+Lead ID,Date Generated,Lead Source,Lead Owner,Company Name,Contact Person,Designation,Phone,Email,Address,Product/Service Interest,Estimated Value (₹),Probability %,Lead Stage,Last Contact Date,Next Follow-up Date,Competitors,Decision Timeline,Key Requirements,Proposal Sent,Demo Given,Negotiation Status,Lost Reason,Status,Remarks
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,22. Leads & Sales Pipeline,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: CFS ===
+
+Month,Year,Cash from Sales,Cash from Accounts Receivable,Other Operating Cash Inflows,Payment to Suppliers,Salary & Wages Paid,Rent Paid,Utilities Paid,Marketing Expenses Paid,Other Operating Expenses,Net Cash from Operating Activities,Sale of Equipment/Assets,Interest Received,Purchase of Equipment,Purchase of Assets,Net Cash from Investing Activities,Loans Received,Capital Invested,Loan Repayments,Interest Paid,Dividends Paid,Net Cash from Financing Activities,Net Increase/Decrease in Cash,Opening Cash Balance,Closing Cash Balance
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,23. Cash Flow Statement,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: BS ===
+
+Date,Cash & Cash Equivalents,Accounts Receivable,Inventory,Prepaid Expenses,Other Current Assets,Total Current Assets,Property,Equipment,Furniture & Fixtures,Vehicles,Accumulated Depreciation,Net Fixed Assets,Intangible Assets,Long-term Investments,Other Non-Current Assets,Total Non-Current Assets,TOTAL ASSETS,Accounts Payable,Short-term Loans,Salaries Payable,Taxes Payable,Other Current Liabilities,Total Current Liabilities,Long-term Loans,Deferred Tax Liabilities,Other Long-term Liabilities,Total Non-Current Liabilities,TOTAL LIABILITIES,Owner's Capital,Retained Earnings,Current Year Profit/Loss,TOTAL EQUITY,TOTAL LIABILITIES & EQUITY,Debt to Equity Ratio,Current Ratio,Balance Check (Assets - Liabilities - Equity)
+
+=== SHEET: TRCC ===
+
+Column,S.No,Compliance ID,Compliance Type,Form/Return Name,Filing Frequency,Applicable Period,Due Date,Actual Filing Date,Status,Penalty/Late Fee,Turnover Category,GSTIN/PAN/TAN,State/UT,Category Classification,Tax Amount Payable,Tax Amount Paid,Payment Mode,Payment Reference,Portal Used,Username/Login ID,Acknowledgment Number,Return Filing Officer,CA/Tax Consultant,Reminder Alert Days,Email Alert Sent,Previous Year Status,Amendments Filed,Assessment Status,Notice Received,Notice Response Date,Supporting Documents,Audit Requirement,Compliance Notes,Last Updated Date,Last Updated By
+Description,Serial number,Unique identifier for tracking,GST/Income Tax/TDS/TCS/Professional Tax/Other,GSTR-1/GSTR-3B/ITR/TDS Return/Other,Monthly/Quarterly/Half-yearly/Annual,Month/Quarter/Year for which return is filed,Statutory due date for filing/payment,Date when actually filed/paid,Pending/Filed/Paid/Overdue/Not Applicable,Amount of penalty/late fee if applicable,< â‚¹5 Cr / â‚¹5-20 Cr / > â‚¹20 Cr,Relevant tax identification number,Jurisdiction for compliance,Category 1/2 (for state-wise GST filing dates),Total tax liability for the period,Actual amount paid,Online/Challan/Electronic Cash Ledger,Transaction ID/UTR/Challan number,GST Portal/Income Tax Portal/TIN-NSDL,Portal credentials used,ARN/Acknowledgment receipt number,Name of person responsible,External consultant handling compliance,Days before due date for alert (7/15/30),Yes/No - automated reminder status,Filed on time/Late/Penalty paid,Yes/No - revision/amendment status,Not assessed/Under assessment/Completed,Yes/No - any tax notice/scrutiny,Date of response to notice,File path/link to backup documents,Yes/No - whether audit applicable,Special instructions/recurring issues,Date of last modification,Name of person who updated
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,, Tax Register & Compliance Calendar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: LFM ===
+
+S.No,Loan ID,Loan Type,Lender Name,Loan Account Number,Loan Sanction Date,Loan Disbursement Date,Principal Amount,Interest Rate (%),Interest Type,Loan Tenure (Months),EMI Amount,EMI Start Date,EMI Due Date,Payment Mode,Total EMIs Paid,EMIs Remaining,Principal Paid,Interest Paid,Outstanding Principal,Prepayment Done,Prepayment Amount,Prepayment Charges,Last EMI Paid Date,Next EMI Due Date,Loan Closure Date,Total Interest Payable,Total Amount Payable,Collateral/Security,Guarantor Name,Status,Loan Documents,Remarks
+Serial number,Unique loan identifier,Term Loan/Working Capital/Vehicle/Equipment/Personal/Credit Card/Overdraft,Bank/NBFC/Financial institution name,Account/loan reference number,Date when loan was approved,Date when amount was received,Original loan amount sanctioned,Annual interest rate,Fixed/Floating/Hybrid,Total repayment period,Monthly installment amount,Date of first EMI,Day of month when EMI is due,Auto-debit/NACH/Cheque/Online transfer,Number of EMIs completed,Number of EMIs pending,Total principal repaid to date,Total interest paid to date,Remaining principal balance,Yes/No - any prepayments made,Total prepayment amount,Fees charged for prepayment,Date of most recent payment,Date of upcoming payment,Expected/actual loan completion date,Total interest over loan life,Principal + Total interest,Asset pledged (if secured loan),Name of loan guarantor,Active/Closed/Overdue/Restructured,File path/link to loan agreement,Special terms/conditions/notes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Loan & Finance Management,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: IR ===
+
+S.No,Policy ID,Insurance Type,Insurance Company,Policy Holder Name,Insured Asset/Person,Policy Start Date,Policy End Date,Policy Tenure,Sum Insured,Premium Amount,Premium Payment Mode,Premium Due Date,Premium Paid Date,Payment Status,Agent Name,Agent Contact,Nominee Name,Nominee Relationship,Deductible Amount,Co-payment (%),Claim History,Last Claim Date,Last Claim Amount,Renewal Reminder Days,Auto-renewal,Coverage Details,Exclusions,Policy Documents,Remarks
+Serial number,Insurance policy number,Property/Liability/Health/Life/Vehicle/Product/Business Interruption/Cyber,Name of insurer,Name of insured person/entity,Specific asset or person covered,Policy effective date,Policy expiration date,Duration in years,Coverage amount/insured value,Annual/total premium,Annual/Half-yearly/Quarterly/Monthly,Next premium payment date,Last payment date,Paid/Pending/Overdue/Grace period,Insurance agent/broker name,Phone/email of agent,Beneficiary name,Relationship to policyholder,Amount to be paid before claim,Percentage of cost sharing,Number of claims made,Date of most recent claim,Amount of last claim settled,Days before expiry for reminder (30/60/90),Yes/No - automatic renewal status,Summary of what is covered,What is not covered,File path/link to policy copy,Special terms/conditions/notes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,, Insurance Register ,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: T&S MAtrix ===
+
+S.No,Employee ID,Employee Name,Department,Designation,Date of Joining,Skill Category,Skill Name,Required Proficiency Level,Current Proficiency Level,Skill Gap,Certification Required,Certification Name,Certification Number,Issuing Authority,Certification Date,Certification Expiry Date,Certification Status,Training Required,Training Name,Training Type,Training Provider,Training Start Date,Training End Date,Training Status,Training Hours,Training Cost,Assessment Score (%),Assessment Date,Trainer Name,Can Train Others,Next Review Date,Compliance Requirement,Training Documents,Last Updated Date,Remarks
+Serial number,Unique employee identifier,Full name,Work department/division,Job role/position,Employee start date,Technical/Soft Skills/Safety/Compliance/Leadership,"Specific skill (e.g., Python, Communication, Fire Safety)",Level needed for role (1-5 scale),Employee's current level (1-5: No experience/Basic/Competent/Advanced/Expert),Difference between required and current,Yes/No - whether certification needed,Name of certification/qualification,Certificate ID/registration number,Certifying body/organization,Date awarded,Validity end date,Valid/Expired/In progress/Not started,Yes/No - whether training needed,Name of training program,Internal/External/Online/Classroom/On-the-job,Organization/platform providing training,Training commencement date,Training completion date,Scheduled/In progress/Completed/Cancelled,Duration of training program,Total training expense,Performance in evaluation,Date of skills assessment,Name of instructor/coach,Yes/No - employee can mentor,Date for next skills assessment,Mandatory/Optional/Regulatory,File path/link to certificates,Date of last modification,Additional notes/development plans
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Training & Skills Matrix,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: LL Register ===
+
+S.No,License/Registration ID,Document Type,Document Name,Issuing Authority,Registration Number,Jurisdiction,Application Date,Approval Date,Issue Date,Validity Start Date,Validity End Date,Validity Period,Renewal Required,Renewal Due Date,Renewal Fee,Renewal Reminder Days,Renewal Status,Application Fee,Current Status,Purpose/Scope,Key Requirements,Responsible Person,Contact at Authority,Authority Phone/Email,Associated Fees/Penalties,Document Storage Location,Supporting Documents,Amendments/Modifications,Inspection/Audit Required,Last Inspection Date,Remarks
+Serial number,Unique identifier,Business License/FSSAI/GST/Trade License/Professional License/Trademark/Patent,Specific name of registration/license,Government body/regulatory authority,License/registration number,Local/State/National/International,Date applied for,Date granted/issued,Date of issuance,Effective from date,Expiry date,Duration (1 year/3 years/5 years/Lifetime),Yes/No - whether needs renewal,Date by which renewal needed,Cost of renewal,Days before expiry for alert (30/60/90),Not due/Pending/Submitted/Approved,Original application cost,Active/Expired/Suspended/Under renewal/Cancelled,What the license permits,Compliance obligations under this license,Person in-charge of compliance,Name/contact at issuing body,Contact details of authority,Annual fees/late fee structure,Physical/digital file location,File path/link to license copies,Any changes made to license,Yes/No - periodic inspection needed,Date of last compliance check,Special conditions/notes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,, Legal/License Register,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: IT LOG ===
+
+S.No,Asset ID,Asset Type,Asset Category,Asset Name/Description,Brand/Manufacturer,Model Number,Serial Number,Purchase Date,Purchase Cost,Supplier/Vendor,Warranty Period (Months),Warranty Expiry Date,Current Status,Asset Location,Assigned To,Assignment Date,IP Address,MAC Address,Operating System,Software Licenses,License Key,License Type,License Expiry Date,Last Maintenance Date,Next Maintenance Due,Maintenance Cost,Service Provider,Repair History,Downtime (Hours),Depreciation Rate (%),Current Book Value,Disposal Date,Remarks
+Serial number,Unique IT asset identifier,Desktop/Laptop/Server/Network Device/Printer/Scanner/Software/Mobile,Hardware/Software/Network/Cloud Service,Specific name/model,Make of the asset,Model/version number,Unique device serial number,Date of acquisition,Original purchase price,Purchased from,Duration of warranty,End of warranty coverage,Active/Idle/Under repair/Retired/Disposed,Department/room/employee assigned,Employee name/ID using asset,Date allocated to user,Network IP address (if applicable),Physical network address,OS installed (Windows/Mac/Linux),Number of licenses owned,Software activation key,Perpetual/Subscription/Open source,End of license validity,Date of last service/update,Scheduled maintenance date,Cost of last service,Vendor handling maintenance,Summary of past repairs,Total hours asset was non-functional,Annual depreciation percentage,Present accounting value,Date when asset retired/sold,Special notes/configurations
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,, IT & Systems Log,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: VISITOR LOG ===
+
+S.No,Visit Date,Entry Time,Exit Time,Visitor Name,Company/Organization,Designation,Contact Number,Email Address,ID Proof Type,ID Proof Number,Purpose of Visit,Person to Meet,Department to Visit,Visitor Type,Number of Persons,Vehicle Number,Material Brought In,Material Taken Out,Access Level,Security Clearance,Remarks
+Serial number,Date of visit,Time visitor entered,Time visitor left,Full name of visitor,Visitor's organization,Visitor's job title,Visitor's phone number,Visitor's email,Aadhaar/PAN/Driving License/Passport,ID document number,Meeting/Delivery/Inspection/Interview/Other,Employee name,Department/section,Business/Client/Vendor/Official/Personal,Total visitors in group,If visitor came by vehicle,Any items carried inside,Any items taken out,Reception/Office/Production/Restricted area,Approved/Not approved,Special notes/observations
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,Visitor/Guest Log,,,,,,,,,,,,,,,,,
+
+=== SHEET: SESG ===
+
+S.No,Reporting Period,ESG Category,Sub-Category,Metric Name,Unit of Measurement,Target Value,Actual Value,Variance,Performance Status,Data Source,Data Collection Method,Frequency,Responsible Department,Responsible Person,Baseline Value,Baseline Year,Improvement (%),Energy Consumption (kWh),Renewable Energy (%),Water Consumption (L),Water Recycled (%),Waste Generated (Kg),Waste Recycled (%),GHG Emissions (tCO2e),Scope,Carbon Offset,Employee Safety Incidents,Training Hours,Diversity Ratio (%),Community Investment (â‚¹),Supplier ESG Score,Compliance Status,Audit Date,Certifications Held,Improvement Actions,Reporting Standard,Remarks
+Serial number,Month/Quarter/Year,Environmental/Social/Governance,Energy/Water/Waste/Emissions/Labor/Community/Ethics/Compliance,Specific KPI being tracked,kWh/Liters/Kg/Tons/Hours/Percentage/Count,Goal set for the period,Measured actual value,Difference from target,On track/Below target/Exceeded/At risk,Meter/Invoice/Survey/Third-party audit,Automated/Manual/Estimated,Daily/Weekly/Monthly/Quarterly/Annual,Department tracking metric,Individual accountable,Starting point for measurement,Year of baseline establishment,Percentage change from baseline,Electricity/fuel consumption,Percentage from renewable sources,Total water used,Percentage water reused,Total waste produced,Percentage waste recycled,Greenhouse gas emissions,Scope 1/Scope 2/Scope 3 emissions,Carbon credits purchased,Number of workplace accidents,Total employee training hours,Gender/minority representation,CSR spending/community programs,Vendor sustainability rating,Compliant/Non-compliant/Partial,Date of ESG audit,ISO 14001/SA 8000/B Corp/Other,Initiatives to improve performance,GRI/SASB/TCFD/CDP/UN SDGs,Additional context/explanations
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,Sustainability/ESG Reporting,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+=== SHEET: R&D A ===
+
+S.No,Project ID,Project Name,Project Type,Start Date,Expected End Date,Actual End Date,Project Status,Project Leader,Team Members,Department,Research Objective,Budget Allocated,Actual Expenditure,Funding Source,Grant Reference,Technology Area,Milestone Name,Milestone Due Date,Milestone Status,Deliverables,IP Generated,IP Application Number,Publications,Collaboration Partners,Testing Phase,Commercial Viability,Remarks
+Serial number,Unique R&D project identifier,Name of research/development project,Product Development/Process Improvement/Technology Research/Innovation,Project commencement date,Planned completion date,Real completion date,Planning/Active/On hold/Completed/Cancelled,Name of lead researcher,Names of team involved,Department conducting R&D,Goal/purpose of project,Total budget for project,Amount spent to date,Internal/Government grant/Investor/Partnership,Grant application number,AI/Biotech/Materials/Electronics/Other,Key project milestone,Expected milestone date,Pending/Achieved/Delayed,Expected outputs/results,Patent/Trademark/Copyright created,IP registration reference,Research papers published,External collaborators/universities,Lab/Pilot/Field testing,Yes/No/Under evaluation,Technical notes/findings
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,R&D Activities,,,,,,,,,,,,,,,,,,,,,,

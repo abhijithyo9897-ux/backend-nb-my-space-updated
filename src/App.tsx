@@ -7,6 +7,7 @@ import JobAllocation from './components/JobAllocation';
 import NextBigMeets from './components/NextBigMeets';
 import AttendanceClock from './components/AttendanceClock';
 import SOPEngine from './components/SOPEngine';
+import BMSHub from './components/BMSHub';
 
 function App() {
   const [activeTab, setActiveTab] = useState<TabType>('dashboard');
@@ -33,6 +34,7 @@ function App() {
           {activeTab === 'meets' && <NextBigMeets />}
           {activeTab === 'attendance' && <AttendanceClock />}
           {activeTab === 'sop' && <SOPEngine />}
+          {activeTab === 'bms' && <BMSHub />}
         </div>
       </main>
     </div>

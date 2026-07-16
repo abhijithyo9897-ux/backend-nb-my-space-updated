@@ -1,8 +1,8 @@
 import React from 'react';
-import { LayoutDashboard, Timer, Briefcase, CalendarClock, Clock, BookOpen } from 'lucide-react';
+import { LayoutDashboard, Timer, Briefcase, CalendarClock, Clock, BookOpen, Database } from 'lucide-react';
 import './Sidebar.css';
 
-export type TabType = 'dashboard' | 'timer' | 'jobs' | 'meets' | 'attendance' | 'sop';
+export type TabType = 'dashboard' | 'timer' | 'jobs' | 'meets' | 'attendance' | 'sop' | 'bms';
 
 interface SidebarProps {
   activeTab: TabType;
@@ -17,6 +17,7 @@ const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab }) => {
     { id: 'jobs', label: 'Job Stencil', icon: <Briefcase size={20} /> },
     { id: 'meets', label: 'Next Big Meets', icon: <CalendarClock size={20} /> },
     { id: 'sop', label: 'SOP Engine', icon: <BookOpen size={20} /> },
+    { id: 'bms', label: 'BMS Engine', icon: <Database size={20} /> },
   ];
 
   return (
