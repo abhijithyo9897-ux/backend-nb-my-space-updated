@@ -1,0 +1,191 @@
+﻿=== 1 SOP.xlsx ===
+TASK,RESPOSIBILITY HEAD,Sub task,SOP Component,PREDEFINED STAGES,Guideline Category,Metric Category,Mistake Category,,,
+,Department,,Document Header,1. Identification,Language & Tone,Compliance,Scope Issues,,Attachments,all types
+,Human Resources,,Title Page,2. Planning,Clarity,Efficiency,Language Problems,,All ids attached,links
+,Finance & Accounting,,Table of Contents,3. Research & Analysis,Consistency,Quality,Vague Instructions,,"workspace-blanks,boards and tiles",
+,IT & Technology,,Purpose & Objective,4. Drafting,Specificity,Timeliness,Missing Prerequisites,,,
+,Operations,,Scope,5. Internal Review,Action Orientation,Safety,Outdated Content,,date and time reminder,
+,Sales & Marketing,,Definitions & Acronyms,6. Revision,Numbering,Usability,No Visual Aids,,ping to get response for holdables-incomplete,
+,Customer Service,,Roles & Responsibilities,7. Pilot Testing,Visual Aids,Document Quality,Poor Organization,,status/tl page for checking tasks,
+,Quality Assurance,,References,8. Final Review & Approval,Page Layout,Improvement,Missing Decision Points,,,
+,Supply Chain,,Equipment & Materials,9. Publication,Conditional Steps,Adoption,Over-Complication,,Chat options,
+,Legal & Compliance,,Safety & Compliance,10. Training,Time References,Effectiveness,No Metrics,,,
+,Research & Development,,Prerequisites,11. Implementation,Measurements,,Single Format Only,,,
+,Facilities & Admin,,Step-by-Step Procedures,12. Monitoring & Measurement,Safety Emphasis,,No Ownership,,,
+,Training & Development,,Process Flow Diagram,13. Periodic Review,Cross-References,,Missing References,,,
+,,,Quality Control Checkpoints,14. Update & Revision,Version Control,,No Training Plan,,,
+,Sop,,Key Performance Indicators,15. Archival,,,Rigid Structure,,,
+,Employee ,,Troubleshooting Guide,,,,Poor Version Control,,,
+,~details,,Escalation Matrix,Format Type,,,No Feedback Loop,,,
+,Date,,Documentation & Records,Simple Steps,,,Legal Gaps,,,
+,Time assigned work,,Approval Signatures,Hierarchical Steps,,,Safety Oversights,,,
+,day Work Assigned,,Revision History,Flowchart,,,No Change Management,,,
+,Assigned jobs,,Training Requirements,Checklist,,,,,,
+,All  jobs month,,Appendices,Matrix,,,,,,
+,Today,,Distribution List,Process Map,,,,,,
+,Time framed,,Review & Audit Schedule,Annotated Screenshots,,,,,,
+,update sheets,,,Video/Multimedia,,,,,,
+,Description,,,Hybrid Format,,,,,,
+,Pending,,,,,,,,,
+,completed tasks,,,,,,,,,
+,Reminder sets for job.checks,,,,,,,,,
+,with,,,,,,,,,
+,date of given,,,,,,,,,
+,date wise update,,,,,,,,,
+,date expiry,,,,,,,,,
+,Timeline of specific job,,,,,,,,,
+,new job ,,,,,,,,,
+,assigned person,,,,,,,,,
+,attachment space/notes,,,,,,,,,
+=== sop manufacturing spreadsheet.xlsx ===
+SOP Name,Purpose,Key Components,Compliance Standards,Critical Safety Points,Review Frequency
+Machine Setup & Startup,Ensure safe and correct equipment initialization,"Pre-start checklist, Safety verification, Calibration check, Warm-up procedure","OSHA, ISO 9001, Manufacturer specs","Lockout/tagout, PPE requirements, Emergency stop test",Quarterly
+Production Line Operation,Standardize assembly/processing workflow,"Station responsibilities, Cycle time targets, Quality checkpoints, Handoff procedures","ISO 9001, Lean Manufacturing","Moving parts awareness, Line stop protocol, Ergonomic positioning",Semi-annual
+Material Handling & Loading,Safe transfer of raw materials to production,"Material verification, Lifting procedures, Storage requirements, FIFO/FEFO rules","OSHA, GMP, Material Safety","Weight limits, Chemical handling, Spill procedures",Annual
+Batch Processing,Ensure consistency in batch production,"Batch numbering, Recipe/formula adherence, Mixing parameters, Time/temperature logs","GMP, ISO 9001, FDA (if applicable)","Chemical reactions, Temperature extremes, Ventilation requirements",Annual
+In-Process Quality Checks,Catch defects during production,"Sampling frequency, Measurement methods, Acceptance criteria, Deviation handling","ISO 9001, Six Sigma, SPC","Stop production if critical defect, Tag non-conforming items",Quarterly
+Line Changeover,Switch between different products efficiently,"Cleaning verification, Setup change, First article inspection, Waste minimization","GMP, ISO 9001, Lean","Cross-contamination prevention, Equipment cleaning validation",Annual
+Packaging Operations,Proper packaging of finished goods,"Packaging material verification, Labeling requirements, Sealing standards, Weight checks","ISO 9001, Regulatory labeling","Automated machinery safety, Label accuracy verification",Annual
+Equipment Shutdown,Safe equipment power-down procedure,"Production completion check, Cleaning requirements, Lock-out procedure, Maintenance log","OSHA, Equipment manuals","Electrical isolation, Pressure release, Cool-down period",Quarterly
+Production Documentation,Maintain accurate production records,"Batch records, Operator logs, Downtime tracking, Yield calculations","ISO 9001, GMP, Regulatory","Data integrity, Traceability requirements",Annual
+Yield Optimization,Maximize output while maintaining quality,"Waste tracking, Scrap analysis, Process parameter optimization, Efficiency metrics","Lean Manufacturing, Six Sigma",Quality not compromised for speed,Semi-annual
+=== sop.xlsx ===
+SOP Component,Description,Purpose,Mandatory/Optional,Owner/Responsible,Review Frequency
+Document Header,"Title, SOP ID, Version number, Effective date, Department",Unique identification and version control,Mandatory,Quality Manager,With each revision
+Title Page,"SOP title, Department/Function, Document control number, Approval signatures",Official document identification and authorization,Mandatory,Process Owner,Annual
+Table of Contents,"Section numbers, headings, page references",Easy navigation for long SOPs (>5 pages),Optional,Document Controller,With major updates
+Purpose & Objective,"Why this SOP exists, what problem it solves, desired outcomes",Clarifies the goal and importance of the procedure,Mandatory,Process Owner,Annual
+Scope,"What is covered, what is excluded, applicable departments/roles",Defines boundaries and prevents overlap,Mandatory,Process Owner,Annual
+Definitions & Acronyms,"Technical terms, abbreviations, specialized vocabulary",Ensures common understanding across all users,Mandatory,Subject Matter Expert,Semi-annual
+Roles & Responsibilities,"Who does what, RACI matrix (Responsible, Accountable, Consulted, Informed)",Clear accountability and ownership,Mandatory,HR & Process Owner,Annual
+References,"Related SOPs, policies, regulations, standards (ISO, FDA, etc.)",Links to supporting documents and compliance requirements,Mandatory,Compliance Officer,Annual
+Equipment & Materials,"Required tools, software, hardware, safety gear, consumables",Ensures necessary resources are available,Mandatory,Operations Manager,Quarterly
+Safety & Compliance,"PPE requirements, hazard warnings, regulatory compliance, environmental considerations",Protects employees and ensures legal compliance,Mandatory,Safety Officer,Quarterly
+Prerequisites,"Required training, certifications, prior knowledge, system access",Ensures qualified personnel execute the procedure,Mandatory,Training Manager,Annual
+Step-by-Step Procedures,"Numbered sequential instructions, decision points, conditional logic",Core operational instructions,Mandatory,Process Owner,Annual
+Process Flow Diagram,Visual flowchart showing process flow and decision trees,Quick visual reference for complex procedures,Optional,Process Engineer,Annual
+Quality Control Checkpoints,"Verification steps, acceptance criteria, inspection points",Ensures output quality and catches errors early,Mandatory,Quality Assurance,Annual
+Key Performance Indicators,"Metrics to measure success (time, accuracy, cost, efficiency)",Enables performance monitoring and improvement,Mandatory,Business Analyst,Quarterly
+Troubleshooting Guide,"Common problems, root causes, corrective actions",Reduces downtime and empowers employees,Optional,Technical Support,Semi-annual
+Escalation Matrix,"Issue severity levels, escalation contacts, response timeframes",Clear path for handling exceptions and emergencies,Mandatory,Operations Manager,Annual
+Documentation & Records,"What to document, forms to complete, retention periods, storage location",Maintains audit trail and compliance evidence,Mandatory,Document Controller,Annual
+Approval Signatures,"Prepared by, Reviewed by, Approved by (with dates)",Formal authorization and accountability,Mandatory,Department Head,With each revision
+Revision History,"Version number, date, sections changed, reason for change, approver",Tracks document evolution and maintains version control,Mandatory,Document Controller,With each revision
+Training Requirements,"Who needs training, training method, competency assessment",Ensures proper implementation and skill development,Mandatory,Training Manager,Annual
+Appendices,"Templates, forms, checklists, sample outputs, reference materials",Supplementary resources without cluttering main document,Optional,Process Owner,As needed
+Distribution List,"Who receives the SOP, access permissions, notification method",Ensures right people have access,Mandatory,Document Controller,Annual
+Review & Audit Schedule,"Planned review dates, audit frequency, continuous improvement plan",Keeps SOP current and effective,Mandatory,Quality Manager,Annual
+=== SOPBook1.xlsx ===
+SOP Component,Description,Purpose,,
+Document Header,"Title, SOP ID, Version number, Effective date, Department",Unique identification and version control,,
+Title Page,"SOP title, Department/Function, Document control number, Approval signatures",Official document identification and authorization,,
+Table of Contents,"Section numbers, headings, page references",Easy navigation for long SOPs (>5 pages),,
+Purpose & Objective,"Why this SOP exists, what problem it solves, desired outcomes",Clarifies the goal and importance of the procedure,,
+Scope,"What is covered, what is excluded, applicable departments/roles",Defines boundaries and prevents overlap,,
+Definitions & Acronyms,"Technical terms, abbreviations, specialized vocabulary",Ensures common understanding across all users,,
+Roles & Responsibilities,"Who does what, RACI matrix (Responsible, Accountable, Consulted, Informed)",Clear accountability and ownership,,
+References,"Related SOPs, policies, regulations, standards (ISO, FDA, etc.)",Links to supporting documents and compliance requirements,,
+Equipment & Materials,"Required tools, software, hardware, safety gear, consumables",Ensures necessary resources are available,,
+Safety & Compliance,"PPE requirements, hazard warnings, regulatory compliance, environmental considerations",Protects employees and ensures legal compliance,,
+Prerequisites,"Required training, certifications, prior knowledge, system access",Ensures qualified personnel execute the procedure,,
+Step-by-Step Procedures,"Numbered sequential instructions, decision points, conditional logic",Core operational instructions,,
+Process Flow Diagram,Visual flowchart showing process flow and decision trees,Quick visual reference for complex procedures,,
+Quality Control Checkpoints,"Verification steps, acceptance criteria, inspection points",Ensures output quality and catches errors early,,
+Key Performance Indicators,"Metrics to measure success (time, accuracy, cost, efficiency)",Enables performance monitoring and improvement,,
+Troubleshooting Guide,"Common problems, root causes, corrective actions",Reduces downtime and empowers employees,,
+Escalation Matrix,"Issue severity levels, escalation contacts, response timeframes",Clear path for handling exceptions and emergencies,,
+Documentation & Records,"What to document, forms to complete, retention periods, storage location",Maintains audit trail and compliance evidence,,
+Approval Signatures,"Prepared by, Reviewed by, Approved by (with dates)",Formal authorization and accountability,,
+Revision History,"Version number, date, sections changed, reason for change, approver",Tracks document evolution and maintains version control,,
+Training Requirements,"Who needs training, training method, competency assessment",Ensures proper implementation and skill development,,
+Appendices,"Templates, forms, checklists, sample outputs, reference materials",Supplementary resources without cluttering main document,,
+Distribution List,"Who receives the SOP, access permissions, notification method",Ensures right people have access,,
+Review & Audit Schedule,"Planned review dates, audit frequency, continuous improvement plan",Keeps SOP current and effective,,
+,,,,
+Guideline Category,Best Practice,Example/Description,,
+Language & Tone,"Use active voice, present tense, imperative mood","""Click the Submit button"" instead of ""The Submit button should be clicked""",,
+Clarity,"Use simple, concise language; avoid jargon unless defined","""Start the machine"" not ""Initiate operational commencement of equipment""",,
+Consistency,Use same terms throughout; maintain uniform formatting,"If using ""employee"" don't switch to ""staff"" or ""personnel""",,
+Specificity,"Include exact details: values, times, quantities, locations","""Heat to 350°F for 15 minutes"" not ""Heat until warm""",,
+Action Orientation,Start each step with action verb,"""Verify"", ""Complete"", ""Submit"", ""Review"", ""Approve""",,
+Numbering,Use hierarchical numbering for main steps and sub-steps,"1.0, 1.1, 1.2, 2.0, 2.1 or 1, 1a, 1b, 2, 2a",,
+Visual Aids,"Include screenshots, diagrams, flowcharts for complex steps",Annotated screenshots showing where to click,,
+Page Layout,"Use headers/footers with SOP ID, page number, effective date","""SOP-HR-001 | Page 3 of 12 | Effective: 01-Jan-2025""",,
+Conditional Steps,Clearly mark IF-THEN scenarios and decision points,"""IF error code appears, THEN contact IT Support""",,
+Time References,Specify exact timeframes and deadlines,"""Within 24 hours"", ""By end of business day"", ""15-minute intervals""",,
+Measurements,Use standard units with precision,"""250ml ±5ml"", ""Room temperature (20-25°C)""",,
+Safety Emphasis,"Use WARNING, CAUTION, NOTE boxes for critical information",WARNING: High voltage - disconnect power before maintenance,,
+Cross-References,"Link to related SOPs, policies, forms","""Refer to SOP-QA-005 for quality inspection procedure""",,
+Version Control,"Clearly mark version, highlight changes from previous version","""Version 3.2 - Updated Section 4.5 (equipment list)""",,
+,,,,
+Phase,Activities,Responsible Party,,
+1. Identification,"Identify processes needing SOPs, prioritize based on risk/impact",Process Owner + Quality Manager,,
+2. Planning,"Assign authors, set deadlines, gather resources, define scope",Quality Manager,,
+3. Research & Analysis,"Map current process, interview stakeholders, review regulations",Subject Matter Expert + Process Owner,,
+4. Drafting,"Write SOP following template, include all mandatory components",Technical Writer + SME,,
+5. Internal Review,"SMEs review for technical accuracy, QA reviews for compliance",Department Team + QA,,
+6. Revision,"Incorporate feedback, clarify ambiguities, add missing details",Technical Writer,,
+7. Pilot Testing,"Test SOP with actual users, gather usability feedback",End Users + Process Owner,,
+8. Final Review & Approval,"Management review, sign-off from stakeholders, legal review if needed",Department Head + Quality Manager,,
+9. Publication,"Upload to document management system, assign access permissions",Document Controller,,
+10. Training,"Conduct training sessions, assess competency, maintain records",Training Manager + Process Owner,,
+11. Implementation,"Launch SOP, monitor initial usage, provide support",Process Owner + Team Leads,,
+12. Monitoring & Measurement,"Track KPIs, collect feedback, measure effectiveness",Process Owner + Quality Manager,,
+13. Periodic Review,Scheduled review for accuracy and relevance,Process Owner + QA,,
+14. Update & Revision,"Make necessary changes, update version, re-approve",Same as drafting phase,,
+15. Archival,"Retire obsolete versions, maintain historical records",Document Controller,,
+,,,,
+Quality Criterion,Question to Ask,Pass/Fail/NA,Comments/Evidence,Severity if Missing
+Clarity,Can a new employee follow this without asking questions?,,,High
+Completeness,Are all necessary steps and components included?,,,High
+Accuracy,Is all information technically correct and current?,,,Critical
+Consistency,Is terminology and formatting uniform throughout?,,,Medium
+Accessibility,Is language simple and free of unnecessary jargon?,,,Medium
+Compliance,Does it meet all regulatory and company requirements?,,,Critical
+Safety,Are safety warnings appropriately highlighted?,,,Critical
+Visual Design,Is layout clean with adequate white space and visual aids?,,,Low
+Testability,Can compliance be verified through audit or testing?,,,High
+Measurability,Are outcomes quantifiable with defined metrics?,,,Medium
+Traceability,Can we track who did what and when?,,,High
+Efficiency,Does it optimize time and resources?,,,Medium
+Scalability,Will it work as volume increases?,,,Medium
+Flexibility,Can it handle reasonable variations and exceptions?,,,Medium
+User-Friendliness,Did pilot users find it easy to follow?,,,High
+Version Control,Is version clearly marked with change history?,,,High
+Approval,Has it been signed off by all required authorities?,,,Critical
+Distribution,Has it reached all relevant stakeholders?,,,High
+Training,Have users been trained and assessed?,,,Critical
+Integration,Does it reference and align with related SOPs?,,,Medium
+,,,,
+Format Type,Best For,Structure,,
+Simple Steps,Straightforward linear processes with few decision points,Numbered list of sequential steps,,
+Hierarchical Steps,Moderate complexity with sub-steps and categories,"Main steps with nested sub-steps (1.0, 1.1, 1.2)",,
+Flowchart,Complex processes with multiple decision points and branches,Visual diagram with shapes and arrows,,
+Checklist,Verification and inspection procedures,List of items to verify/complete with checkboxes,,
+Matrix,Processes involving multiple variables or conditions,Table showing conditions and corresponding actions,,
+Process Map,High-level overview of end-to-end process,Swimlanes showing roles and handoffs,,
+Annotated Screenshots,Software/system procedures,Step-by-step with numbered screenshots,,
+Video/Multimedia,Physical procedures requiring demonstration,"Video with narration, interactive elements",,
+Hybrid Format,Very complex processes needing multiple approaches,"Combination of flowchart, steps, checklist",,
+,,,,
+Mistake Category,Specific Error,Impact,How to Avoid,Example
+Scope Issues,Scope too broad or unclear,Confusion about when to use SOP,Define clear boundaries: what's included and excluded,"""Customer Service"" vs ""Handling Tier-1 Phone Support Calls"""
+Language Problems,Using passive voice,Unclear who performs action,"Use active voice: ""The manager approves"" not ""approval is given""","""The form is submitted"" → ""Submit the form"""
+Vague Instructions,"Using ambiguous terms like ""appropriate"", ""sufficient""","Inconsistent execution, quality issues","Specify exact criteria, measurements, quantities","""Add appropriate amount"" → ""Add 250ml ±5ml"""
+Missing Prerequisites,Not stating required knowledge or access,Unqualified people attempting process,"List all training, certifications, system access required",Assuming everyone knows how to use the ERP system
+Outdated Content,SOP doesn't reflect current process,"People ignore SOP, compliance issues","Set regular review schedule, assign owner",Still referencing old software version
+No Visual Aids,Long text without diagrams or screenshots,"Difficult to understand, training takes longer","Add flowcharts for complex logic, screenshots for software",10 paragraphs describing software navigation
+Poor Organization,"Random order, illogical sequence","Users can't find information, time wasted","Follow standard template, use table of contents",Safety information buried in middle of document
+Missing Decision Points,"No guidance on ""what if"" scenarios",Process stops when exceptions occur,"Include troubleshooting, escalation procedures","No instruction for ""If payment fails..."""
+Over-Complication,Including unnecessary detail or edge cases,"SOP too long, users overwhelmed","Focus on 80/20 rule, put rare scenarios in appendix",Documenting every possible error message
+No Metrics,No way to measure success or effectiveness,"Can't improve, can't prove compliance","Define KPIs, set targets, require documentation",No tracking of processing time or error rate
+Single Format Only,"Using only one format (e.g., text only)",Doesn't match process complexity,Choose format based on process needs,Using simple list for complex decision tree
+No Ownership,No one responsible for SOP accuracy,"SOP becomes outdated, no one to ask questions",Assign process owner with clear accountability,"Generic ""HR Department"" instead of specific role"
+Missing References,No links to related documents or policies,"Duplicate info, inconsistency across docs","Cross-reference related SOPs, policies, regulations",Repeating company policy instead of referencing it
+No Training Plan,Publishing SOP without training users,"SOP not followed, defeats the purpose","Develop training program, assess competency",Emailing SOP without explanation or training
+Rigid Structure,No provision for exceptions or variations,Process breaks in real situations,"Include escalation process, emergency procedures","""Must always call customer"" even if unreachable"
+Poor Version Control,"Multiple versions circulating, unclear which is current","People follow wrong version, compliance risk","Use document management system, clear version numbering",3 different versions in circulation
+No Feedback Loop,No way for users to suggest improvements,"Process doesn't improve, user frustration","Establish feedback mechanism, regular review meetings",No channel for frontline staff to report issues
+Legal Gaps,Missing regulatory requirements or compliance steps,"Legal violations, fines, audit failures",Involve legal/compliance team in review,Missing GDPR consent step in data collection
+Safety Oversights,Inadequate safety warnings or PPE requirements,"Injuries, liability, OSHA violations","Involve safety officer, highlight all hazards","Missing ""Wear safety goggles"" for chemical handling"
+No Change Management,SOP updated without managing transition,"Confusion during changeover, errors spike","Plan transition, communicate changes, phase implementation",New version goes live with no announcement

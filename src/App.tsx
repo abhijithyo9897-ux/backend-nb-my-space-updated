@@ -6,6 +6,7 @@ import Dashboard from './components/Dashboard';
 import JobAllocation from './components/JobAllocation';
 import NextBigMeets from './components/NextBigMeets';
 import AttendanceClock from './components/AttendanceClock';
+import SOPEngine from './components/SOPEngine';
 
 function App() {
   const [activeTab, setActiveTab] = useState<TabType>('dashboard');
@@ -31,6 +32,7 @@ function App() {
           {activeTab === 'jobs' && <JobAllocation />}
           {activeTab === 'meets' && <NextBigMeets />}
           {activeTab === 'attendance' && <AttendanceClock />}
+          {activeTab === 'sop' && <SOPEngine />}
         </div>
       </main>
     </div>
