@@ -23,22 +23,22 @@ export const sopGroups: SOPGroup[] = [
       {
         id: 'sop-guidelines',
         title: 'SOP Writing Guidelines',
-        columns: ['Guideline Category', 'Best Practice', 'Example/Description']
+        columns: ['Guideline Category', 'Best Practice', 'Example/Description', 'Common Mistakes to Avoid']
       },
       {
         id: 'sop-lifecycle',
-        title: 'SOP Lifecycle Phases',
-        columns: ['Phase', 'Activities', 'Responsible Party']
+        title: 'SOP Lifecycle Management',
+        columns: ['Phase', 'Activities', 'Responsible Party', 'Timeline', 'Deliverables', 'Success Criteria']
       },
       {
         id: 'quality-criteria',
-        title: 'Quality Criteria Checkpoints',
+        title: 'SOP Quality Checklist',
         columns: ['Quality Criterion', 'Question to Ask', 'Pass/Fail/NA', 'Comments/Evidence', 'Severity if Missing']
       },
       {
         id: 'format-types',
-        title: 'Format Types & Templates',
-        columns: ['Format Type', 'Best For', 'Structure']
+        title: 'SOP Formats & When to Use',
+        columns: ['Format Type', 'Best For', 'Structure', 'Advantages', 'Disadvantages', 'Example Use Case']
       },
       {
         id: 'common-mistakes',
@@ -53,12 +53,12 @@ export const sopGroups: SOPGroup[] = [
     pages: [
       {
         id: 'department-components',
-        title: 'Department Critical Components',
-        columns: ['Department', 'Common SOP Types', 'Critical Components']
+        title: 'Department-Specific SOPs',
+        columns: ['Department', 'Common SOP Types', 'Critical Components', 'Compliance Focus', 'Typical Review Cycle']
       },
       {
         id: 'performance-metrics',
-        title: 'Key Performance Metrics',
+        title: 'SOP Metrics & KPIs',
         columns: ['Metric Category', 'Specific KPI', 'How to Measure', 'Target Range', 'Frequency', 'Action if Out of Range']
       },
       {
@@ -122,7 +122,7 @@ export const sopGroups: SOPGroup[] = [
       {
         id: 'employee-task-matrix',
         title: 'Employee Task Matrix',
-        columns: ['TASK', 'RESPOSIBILITY HEAD', 'Sub task', 'SOP Component', 'PREDEFINED STAGES', 'Guideline Category', 'Metric Category', 'Mistake Category']
+        columns: ['TASK', 'RESPOSIBILITY HEAD', 'Sub task', 'SOP Component', 'PREDEFINED STAGES', 'Guideline Category', 'Metric Category', 'Mistake Category', 'Attachments', 'all types', 'All ids attached', 'links', 'workspace-blanks, boards and tiles', 'date and time reminder', 'ping to get response for holdables-incomplete', 'status/tl page for checking tasks', 'Missing Decision Points', 'Chat options']
       },
       {
         id: 'department-assignment',
