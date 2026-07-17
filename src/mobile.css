@@ -1,0 +1,152 @@
+/* Mobile Responsiveness - Without changing existing desktop CSS */
+
+@media (max-width: 768px) {
+  /* App Container & Sidebar */
+  .app-container {
+    flex-direction: column;
+  }
+  
+  /* Convert Sidebar to Bottom Nav */
+  .sidebar {
+    width: 100% !important;
+    height: auto !important;
+    padding: 10px !important;
+    flex-direction: row !important;
+    justify-content: space-around;
+    border-right: none !important;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    background: var(--bg-dark);
+  }
+
+  .brand, .sidebar-footer {
+    display: none !important;
+  }
+
+  .nav-items {
+    flex-direction: row !important;
+    width: 100%;
+    justify-content: space-around;
+    gap: 0 !important;
+  }
+
+  .nav-item {
+    flex-direction: column;
+    padding: 8px !important;
+    font-size: 0.7rem;
+    text-align: center;
+  }
+
+  .nav-item span {
+    display: none;
+  }
+
+  /* Main Content Area */
+  .main-content {
+    padding: 10px !important;
+    margin-bottom: 70px; /* Space for bottom nav */
+  }
+
+  .top-header {
+    flex-direction: column;
+    gap: 15px;
+    padding: 10px !important;
+    align-items: flex-start;
+  }
+
+  /* Metrics Grid (Dashboard) */
+  .metrics-grid {
+    grid-template-columns: 1fr !important;
+  }
+  
+  .dashboard-bottom {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* SOP Engine & BMS Hub */
+  .sop-hub-container, .bms-container, .timer-hub-container {
+    flex-direction: column !important;
+    gap: 15px;
+  }
+
+  .sop-sidebar, .bms-sidebar, .timer-sidebar {
+    width: 100% !important;
+    border-right: none !important;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  
+  .sop-toolbar, .bms-toolbar {
+    flex-direction: column;
+    align-items: flex-start !important;
+    gap: 10px;
+  }
+  
+  .toolbar-right {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .search-box {
+    width: 100% !important;
+  }
+
+  /* Table responsiveness */
+  .sop-table-wrapper, .bms-table-wrapper {
+    overflow-x: auto;
+  }
+
+  /* Job Allocation */
+  .stencil-header {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start !important;
+  }
+
+  .stencil-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .domain-list {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+    padding-bottom: 10px;
+  }
+
+  .domain-item {
+    margin-bottom: 0 !important;
+    white-space: nowrap;
+  }
+
+  /* Timer Hub */
+  .timer-display-area {
+    padding: 20px !important;
+  }
+
+  /* Attendance Clock */
+  .attendance-container {
+    flex-direction: column !important;
+  }
+  
+  .attendance-action-area {
+    flex-direction: column !important;
+  }
+  
+  .timezone-grid {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* NextBigMeets */
+  .meets-header {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start !important;
+  }
+  
+  .meets-details-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
