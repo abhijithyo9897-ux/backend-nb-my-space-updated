@@ -1,8 +1,14 @@
 import React from 'react';
-import { Activity, Clock, MapPin, Zap } from 'lucide-react';
+import { Activity, Clock, MapPin, Zap, Send } from 'lucide-react';
+import { apiClient } from '../services/api';
 import './NextBigMeets.css';
 
 const NextBigMeets: React.FC = () => {
+  const handleSubmitMeeting = () => {
+    apiClient.submitCase('ceo-admin', 'Meeting Token #12 Concluded with Consensus');
+    alert('Meeting decision logged to Autonomous Judiciary.');
+  };
+
   return (
     <div className="meets-container">
       <div className="meets-header glass-panel">
@@ -70,6 +76,9 @@ const NextBigMeets: React.FC = () => {
               <span className="status-dot success"></span> Radius Confirmed (0.4km)
             </div>
             <p>You are physically within the geo-fenced boundary. Ready for convergence.</p>
+            <button className="btn-primary" style={{ marginTop: '1rem' }} onClick={handleSubmitMeeting}>
+              <Send size={16} /> Submit Meeting Resolution
+            </button>
           </div>
         </div>
       </div>

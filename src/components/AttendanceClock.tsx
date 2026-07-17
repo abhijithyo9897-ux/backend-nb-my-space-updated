@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Globe, Fingerprint, LogIn, LogOut, Verified } from 'lucide-react';
+import { apiClient } from '../services/api';
 import './AttendanceClock.css';
 
 const AttendanceClock: React.FC = () => {
@@ -15,6 +16,7 @@ const AttendanceClock: React.FC = () => {
     setAttendanceState('scanning');
     setTimeout(() => {
       setAttendanceState(type === 'in' ? 'clocked-in' : 'clocked-out');
+      apiClient.inscribe('ceo-admin', 'ATTENDANCE_LOG', `Clock ${type.toUpperCase()}`, { type, timestamp: new Date().toISOString() });
     }, 2000);
   };
 

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Play, Square, RotateCcw, Folder, Clock as ClockIcon, Plus, ChevronDown, ChevronRight } from 'lucide-react';
+import { apiClient } from '../services/api';
 import './TimerHub.css';
 
 interface TimerProfile {
@@ -60,6 +61,11 @@ const TimerHub: React.FC = () => {
       // Play sound
       const audio = new Audio('https://assets.mixkit.co/sfx/preview/mixkit-alarm-digital-clock-beep-989.mp3');
       audio.play();
+      
+      // Log task completion to backend
+      if (activeProfile) {
+        apiClient.logTask('ceo-admin', activeProfile.name, 'success');
+      }
     }
     return () => clearInterval(interval);
   }, [isRunning, remainingTime]);

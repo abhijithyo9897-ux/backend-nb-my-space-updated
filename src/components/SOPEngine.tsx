@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { BookOpen, Search, Download, ChevronRight, FileText } from 'lucide-react';
 import { sopGroups, type SOPGroup, type SOPPage } from '../sopConfig';
+import { apiClient } from '../services/api';
 import './SOPEngine.css';
 
 const SOPEngine: React.FC = () => {
@@ -11,6 +12,11 @@ const SOPEngine: React.FC = () => {
   const handleGroupSelect = (group: SOPGroup) => {
     setActiveGroup(group);
     setActivePage(group.pages[0]);
+  };
+
+  const handleExport = () => {
+    apiClient.inscribe('ceo-admin', 'SOP_EXPORT', `Exported ${activePage.title}`);
+    alert(`Exporting ${activePage.title}...`);
   };
 
   // Generate some dummy empty rows just to show the grid structure
@@ -70,7 +76,7 @@ const SOPEngine: React.FC = () => {
                 onChange={(e) => setSearchQuery(e.target.value)}
               />
             </div>
-            <button className="btn-glass export-btn">
+            <button className="btn-glass export-btn" onClick={handleExport}>
               <Download size={16} /> Export
             </button>
           </div>

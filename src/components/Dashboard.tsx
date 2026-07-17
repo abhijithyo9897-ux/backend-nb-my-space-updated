@@ -1,8 +1,19 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Users, UserCheck, UserX, CheckCircle, Clock, CalendarDays, AlertTriangle } from 'lucide-react';
+import { apiClient } from '../services/api';
 import './Dashboard.css';
 
 const Dashboard: React.FC = () => {
+  const [ceoStatus, setCeoStatus] = useState<any>(null);
+
+  useEffect(() => {
+    apiClient.getStatus('ceo-admin').then(res => {
+      if (res?.data) {
+        setCeoStatus(res.data);
+      }
+    });
+  }, []);
+
   return (
     <div className="dashboard-container">
       <div className="metrics-grid">
@@ -42,7 +53,7 @@ const Dashboard: React.FC = () => {
           </div>
           <div className="metric-info">
             <span className="metric-label">Tasks Completed</span>
-            <span className="metric-value">84.2%</span>
+            <span className="metric-value">{ceoStatus?.tasks?.length || 0}</span>
           </div>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Network, Search, Target, ShieldCheck, Database, FileCode } from 'lucide-react';
+import { apiClient } from '../services/api';
 import './JobAllocation.css';
 
 const activeGigs = [
@@ -33,6 +34,18 @@ const activeGigs = [
 ];
 
 const JobAllocation: React.FC = () => {
+  const handleAlignStencil = async (gig: any) => {
+    if (gig.status.includes('Locked')) {
+      alert('Must stake tokens first.');
+      return;
+    }
+    // Create an objective in CEO ERP
+    await apiClient.createObjective('ceo-admin', gig.title, gig.tokens);
+    // Dispatch it via smart gate
+    await apiClient.dispatch(gig.id, 'ZONE-A-RACK-1');
+    alert(`Stencil Aligned and Objective dispatched for ${gig.title}!`);
+  };
+
   return (
     <div className="job-allocation-container">
       <div className="stencil-header glass-panel">
@@ -97,7 +110,10 @@ const JobAllocation: React.FC = () => {
 
                 <div className="gig-action">
                   <div className="gig-tokens">{gig.tokens} <span>TKN</span></div>
-                  <button className={`btn-primary ${gig.status.includes('Locked') ? 'locked' : ''}`}>
+                  <button 
+                    className={`btn-primary ${gig.status.includes('Locked') ? 'locked' : ''}`}
+                    onClick={() => handleAlignStencil(gig)}
+                  >
                     <Target size={16} />
                     {gig.status.includes('Locked') ? 'Stake to Unlock' : 'Align Stencil'}
                   </button>

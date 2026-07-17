@@ -1,12 +1,22 @@
 import React, { useState } from 'react';
 import { Database, Search, Download, ChevronRight, FileSpreadsheet } from 'lucide-react';
 import { bmsGroups, type BMSGroup, type BMSPage } from '../bmsConfig';
+import { apiClient } from '../services/api';
 import './BMSHub.css';
 
 const BMSHub: React.FC = () => {
   const [activeGroup, setActiveGroup] = useState<BMSGroup>(bmsGroups[0]);
   const [activePage, setActivePage] = useState<BMSPage>(bmsGroups[0].pages[0]);
   const [searchQuery, setSearchQuery] = useState('');
+
+  React.useEffect(() => {
+    // Non-destructive integration with the new backend
+    apiClient.getStatus('ceo').then(data => {
+      if (data) {
+        console.log('Connected to CEO ERP Backend:', data);
+      }
+    });
+  }, []);
 
   const handleGroupSelect = (group: BMSGroup) => {
     setActiveGroup(group);
